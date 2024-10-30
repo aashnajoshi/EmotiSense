@@ -25,6 +25,22 @@ def predict_emotion(emoji):
 
     return prediction[0], confidence
 
-emoji_to_predict = input("Type the emoji you want to analyse: ")
-label, confidence = predict_emotion(emoji_to_predict)
-print(f"Emoji: {emoji_to_predict}, Emotion: {label}, Confidence: {confidence:.2f}")
+while True:
+    choice = input("What do you want to try:\n1: Input an emoji\n2: Test Predefined emojis \nq: Quit\t: ")
+
+    if choice == '1':
+        emoji_to_predict = input("Type the emoji you want to analyse: ")
+        label, confidence = predict_emotion(emoji_to_predict)
+        print(f"Emoji: {emoji_to_predict}, Emotion: {label}, Confidence: {confidence:.2f}")
+
+    elif choice == '2':
+        for emoji in ["😂", "😍", "😢", "😡", "😱", "🤔", "😎", "😴", "😈", "🤢"]:
+            predicted_label, confidence = predict_emotion(emoji)
+            print(f"Emoji: {emoji} | Predicted Label: {predicted_label}, Confidence: {confidence:.2f}")
+
+    elif choice.lower() == 'q':
+        print("Exiting...")
+        break
+
+    else:
+        print("Invalid choice, please try again.")
