@@ -25,6 +25,7 @@ def predict_emotion(emoji):
 
 st.title("Emotisense")
 emoji_to_predict = st.text_input("Type the emoji you want to analyze:", "😀")
+st.write("You can use this link, (if you are confused ;):\nhttps://emojikeyboard.io/")
 
 if st.button("Analyze"):
     label, confidence = predict_emotion(emoji_to_predict)
