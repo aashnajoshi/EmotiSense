@@ -67,7 +67,6 @@ emoji,name,label
 😫,tired face,negative
 😻,smiling cat face with heart-eyes,positive
 😞,pouting face,negative
-😇,smiling face with halo,positive
 🤯,exploding head,negative
 🤗,hugging face,positive
 🤑,money-mouth face,neutral
@@ -82,12 +81,10 @@ emoji,name,label
 😹,cat face with tears of joy,positive
 👶,baby,neutral
 👍,thumbs up,positive
-🥵,hot face,negative
 👀,eyes,neutral
 🙌,raising hands,positive
 👏,clapping hands,positive
 💪,flexed biceps,positive
-👋,waving hand,neutral
 🖖,vulcan salute,neutral
 ✋,raised hand,neutral
 🤞,crossed fingers,neutral
@@ -108,20 +105,11 @@ emoji,name,label
 😁,big grin,positive
 🥂,clinking glasses,positive
 🎈,balloon,positive
-🤗,hugging face,positive
-👏,clapping hands,positive
-🤩,star-struck,positive
 😋,face savoring food,positive
-👿,angry face with horns,negative
 💀,skull,negative
 🔪,knife,negative
 🥀,wilted flower,negative
-😖,confounded face,negative
-😩,weary face,negative
-😨,fearful face,negative
 😤,face with steam,negative
-😢,crying face,negative
-🥶,cold face,negative
 🌹,rose,positive
 🥳,partying face,positive
 🍀,four leaf clover,positive
@@ -142,128 +130,57 @@ emoji,name,label
 🔥,fire,negative
 😰,anxious face with sweat,negative
 🤮,face vomiting,negative
-😧,anguished face,negative
 🖤,black heart,negative
 😿,crying cat face,negative
 🧟,zombie,negative
 ☹️,frowning face,negative
 🆘,SOS button,negative
-💔,broken heart,negative
-😀,grinning face,positive
-😃,grinning face with big eyes,positive
 😄,grinning face with smiling eyes,positive
 😁,beaming face with smiling eyes,positive
 😆,grinning squinting face,positive
-😅,grinning face with sweat,positive
-🤣,rolling on the floor laughing,positive
 😂,face with tears of joy,positive
 🙂,slightly smiling face,neutral
-🙃,upside-down face,neutral
 🫠,melting face,neutral
 😉,winking face,positive
-😊,smiling face with smiling eyes,positive
-😇,smiling face with halo,positive
 🥰,smiling face with hearts,positive
 😍,smiling face with heart-eyes,positive
-🤩,star-struck,positive
-😘,face blowing a kiss,positive
 😗,kissing face,positive
 ☺️,smiling face,positive
 ☺,smiling face,positive
-😚,kissing face with closed eyes,positive
-😙,kissing face with smiling eyes,positive
 🥲,smiling face with tear,positive
-😋,face savoring food,positive
-😛,face with tongue,positive
-😜,winking face with tongue,positive
 🤪,zany face,positive
-😝,squinting face with tongue,positive
-🤑,money-mouth face,neutral
 🤗,smiling face with open hands,positive
 🤭,face with hand over mouth,neutral
 🫢,face with open eyes and hand over mouth,neutral
 🫣,face with peeking eye,neutral
-🤫,shushing face,neutral
-🤔,thinking face,neutral
 🫡,saluting face,neutral
-🤐,zipper-mouth face,neutral
 🤨,face with raised eyebrow,neutral
-😐,neutral face,neutral
-😑,expressionless face,neutral
-😶,face without mouth,neutral
 🫥,dotted line face,neutral
 😶‍🌫️,face in clouds,neutral
 😶‍🌫,face in clouds,neutral
-😏,smirking face,neutral
-😒,unamused face,negative
-🙄,face with rolling eyes,neutral
-😬,grimacing face,neutral
 😮‍💨,face exhaling,neutral
-🤥,lying face,neutral
 🫨,shaking face,neutral
-😌,relieved face,positive
-😔,pensive face,negative
-😪,sleepy face,neutral
-🤤,drooling face,neutral
-😴,sleeping face,neutral
 😷,face with medical mask,neutral
-🤒,face with thermometer,negative
-🤕,face with head-bandage,negative
-🤢,nauseated face,negative
-🤮,face vomiting,negative
-🤧,sneezing face,neutral
-🥵,hot face,negative
-🥶,cold face,negative
-🥴,woozy face,negative
 😵,face with crossed-out eyes,neutral
 😵‍💫,face with spiral eyes,neutral
-🤯,exploding head,negative
 🤠,cowboy hat face,neutral
-🥳,partying face,positive
 🥸,disguised face,neutral
-😎,smiling face with sunglasses,positive
 🤓,nerd face,neutral
 🧐,face with monocle,neutral
-😕,confused face,neutral
 🫤,face with diagonal mouth,neutral
-😟,worried face,negative
 🙁,slightly frowning face,negative
-☹️,frowning face,negative
 ☹,frowning face,negative
 😮,face with open mouth,neutral
-😯,hushed face,neutral
-😲,astonished face,neutral
 😳,flushed face,neutral
 🥺,pleading face,positive
 🥹,face holding back tears,positive
 😦,frowning face with open mouth,negative
-😧,anguished face,negative
-😨,fearful face,negative
-😰,anxious face with sweat,negative
 😥,sad but relieved face,negative
-😢,crying face,negative
-😭,loudly crying face,negative
-😱,face screaming in fear,negative
-😖,confounded face,negative
-😣,persevering face,negative
-😞,disappointed face,negative
-😓,downcast face with sweat,negative
-😩,weary face,negative
-😫,tired face,negative
-🥱,yawning face,neutral
-😤,face with steam from nose,negative
 😡,enraged face,negative
-😠,angry face,negative
 🤬,face with symbols on mouth,negative
-😈,smiling face with horns,neutral
-👿,angry face with horns,negative
-💀,skull,negative
 ☠️,skull and crossbones,negative
-☠,skull and crossbones,negative
 💩,pile of poo,negative
-🤡,clown face,neutral
 👹,ogre,negative
-👺,goblin,negative
 👻,ghost,neutral
 👽,alien,neutral
 👾,alien monster,neutral
@@ -283,20 +200,15 @@ emoji,name,label
 💌,love letter,positive
 💘,heart with arrow,positive
 💝,heart with ribbon,positive
-💖,sparkling heart,positive
-💗,growing heart,positive
 💓,beating heart,positive
 💞,revolving hearts,positive
-💕,two hearts,positive
 💟,heart decoration,positive
 ❣️,heart exclamation,positive
 ❣,heart exclamation,positive
-💔,broken heart,negative
 ❤️‍🔥,heart on fire,positive
 ❤‍🔥,heart on fire,positive
 ❤️‍🩹,mending heart,positive
 ❤‍🩹,mending heart,positive
-❤️,red heart,positive
 ❤,red heart,positive
 🩷,pink heart,positive
 🧡,orange heart,positive
@@ -306,7 +218,6 @@ emoji,name,label
 🩵,light blue heart,positive
 💜,purple heart,positive
 🤎,brown heart,positive
-🖤,black heart,negative
 🩶,grey heart,neutral
 🤍,white heart,positive
 💋,kiss mark,positive
@@ -329,7 +240,6 @@ emoji,name,label
 🗯,right anger bubble,negative
 💭,thought balloon,neutral
 💤,ZZZ,neutral
-👋,waving hand,neutral
 👋🏻,waving hand: light skin tone,neutral
 👋🏼,waving hand: medium-light skin tone,neutral
 👋🏽,waving hand: medium skin tone,neutral
@@ -348,13 +258,11 @@ emoji,name,label
 🖐🏽,hand with fingers splayed: medium skin tone,neutral
 🖐🏾,hand with fingers splayed: medium-dark skin tone,neutral
 🖐🏿,hand with fingers splayed: dark skin tone,neutral
-✋,raised hand,neutral
 ✋🏻,raised hand: light skin tone,neutral
 ✋🏼,raised hand: medium-light skin tone,neutral
 ✋🏽,raised hand: medium skin tone,neutral
 ✋🏾,raised hand: medium-dark skin tone,neutral
 ✋🏿,raised hand: dark skin tone,neutral
-🖖,vulcan salute,neutral
 🖖🏻,vulcan salute: light skin tone,neutral
 🖖🏼,vulcan salute: medium-light skin tone,neutral
 🖖🏽,vulcan salute: medium skin tone,neutral
@@ -414,14 +322,12 @@ emoji,name,label
 🤏🏽,pinching hand: medium skin tone,neutral
 🤏🏾,pinching hand: medium-dark skin tone,neutral
 🤏🏿,pinching hand: dark skin tone,neutral
-✌️,victory hand,positive
 ✌,victory hand,positive
 ✌🏻,victory hand: light skin tone,positive
 ✌🏼,victory hand: medium-light skin tone,positive
 ✌🏽,victory hand: medium skin tone,positive
 ✌🏾,victory hand: medium-dark skin tone,positive
 ✌🏿,victory hand: dark skin tone,positive
-🤞,crossed fingers,neutral
 🤞🏻,crossed fingers: light skin tone,neutral
 🤞🏼,crossed fingers: medium-light skin tone,neutral
 🤞🏽,crossed fingers: medium skin tone,neutral
@@ -433,7 +339,6 @@ emoji,name,label
 🫰🏽,hand with index finger and thumb crossed: medium skin tone,neutral
 🫰🏾,hand with index finger and thumb crossed: medium-dark skin tone,neutral
 🫰🏿,hand with index finger and thumb crossed: dark skin tone,neutral
-🤟,love-you gesture,positive
 🤟🏻,love-you gesture: light skin tone,positive
 🤟🏼,love-you gesture: medium-light skin tone,positive
 🤟🏽,love-you gesture: medium skin tone,positive
@@ -445,7 +350,6 @@ emoji,name,label
 🤘🏽,sign of the horns: medium skin tone,neutral
 🤘🏾,sign of the horns: medium-dark skin tone,neutral
 🤘🏿,sign of the horns: dark skin tone,neutral
-🤙,call me hand,neutral
 🤙🏻,call me hand: light skin tone,neutral
 🤙🏼,call me hand: medium-light skin tone,neutral
 🤙🏽,call me hand: medium skin tone,neutral
@@ -494,7 +398,6 @@ emoji,name,label
 🫵🏽,index pointing at the viewer: medium skin tone,neutral
 🫵🏾,index pointing at the viewer: medium-dark skin tone,neutral
 🫵🏿,index pointing at the viewer: dark skin tone,neutral
-👍,thumbs up,positive
 👍🏻,thumbs up: light skin tone,positive
 👍🏼,thumbs up: medium-light skin tone,positive
 👍🏽,thumbs up: medium skin tone,positive
@@ -512,7 +415,6 @@ emoji,name,label
 ✊🏽,raised fist: medium skin tone,neutral
 ✊🏾,raised fist: medium-dark skin tone,neutral
 ✊🏿,raised fist: dark skin tone,neutral
-👊,oncoming fist,neutral
 👊🏻,oncoming fist: light skin tone,neutral
 👊🏼,oncoming fist: medium-light skin tone,neutral
 👊🏽,oncoming fist: medium skin tone,neutral
@@ -530,13 +432,11 @@ emoji,name,label
 🤜🏽,right-facing fist: medium skin tone,neutral
 🤜🏾,right-facing fist: medium-dark skin tone,neutral
 🤜🏿,right-facing fist: dark skin tone,neutral
-👏,clapping hands,positive
 👏🏻,clapping hands: light skin tone,positive
 👏🏼,clapping hands: medium-light skin tone,positive
 👏🏽,clapping hands: medium skin tone,positive
 👏🏾,clapping hands: medium-dark skin tone,positive
 👏🏿,clapping hands: dark skin tone,positive
-🙌,raising hands,positive
 🙌🏻,raising hands: light skin tone,positive
 🙌🏼,raising hands: medium-light skin tone,positive
 🙌🏽,raising hands: medium skin tone,positive
@@ -586,7 +486,6 @@ emoji,name,label
 🫱🏿‍🫲🏼,"handshake: dark skin tone, medium-light skin tone",neutral
 🫱🏿‍🫲🏽,"handshake: dark skin tone, medium skin tone",neutral
 🫱🏿‍🫲🏾,"handshake: dark skin tone, medium-dark skin tone",neutral
-🙏,folded hands,neutral
 🙏🏻,folded hands: light skin tone,neutral
 🙏🏼,folded hands: medium-light skin tone,neutral
 🙏🏽,folded hands: medium skin tone,neutral
@@ -611,7 +510,6 @@ emoji,name,label
 🤳🏽,selfie: medium skin tone,neutral
 🤳🏾,selfie: medium-dark skin tone,neutral
 🤳🏿,selfie: dark skin tone,neutral
-💪,flexed biceps,positive
 💪🏻,flexed biceps: light skin tone,positive
 💪🏼,flexed biceps: medium-light skin tone,positive
 💪🏽,flexed biceps: medium skin tone,positive
@@ -654,13 +552,11 @@ emoji,name,label
 🫁,lungs,neutral
 🦷,tooth,neutral
 🦴,bone,neutral
-👀,eyes,neutral
 👁️,eye,neutral
 👁,eye,neutral
 👅,tongue,neutral
 👄,mouth,neutral
 🫦,biting lip,neutral
-👶,baby,neutral
 👶🏻,baby: light skin tone,neutral
 👶🏼,baby: medium-light skin tone,neutral
 👶🏽,baby: medium skin tone,neutral
@@ -1152,7 +1048,6 @@ emoji,name,label
 🤷🏾‍♀,woman shrugging: medium-dark skin tone,neutral
 🤷🏿‍♀️,woman shrugging: dark skin tone,neutral
 🤷🏿‍♀,woman shrugging: dark skin tone,neutral
-🧑‍⚕️,health worker,neutral
 🧑‍⚕,health worker,neutral
 🧑🏻‍⚕️,health worker: light skin tone,neutral
 🧑🏻‍⚕,health worker: light skin tone,neutral
@@ -1188,7 +1083,6 @@ emoji,name,label
 👩🏾‍⚕,woman health worker: medium-dark skin tone,neutral
 👩🏿‍⚕️,woman health worker: dark skin tone,neutral
 👩🏿‍⚕,woman health worker: dark skin tone,neutral
-🧑‍🎓,student,neutral
 🧑🏻‍🎓,student: light skin tone,neutral
 🧑🏼‍🎓,student: medium-light skin tone,neutral
 🧑🏽‍🎓,student: medium skin tone,neutral
@@ -1296,7 +1190,6 @@ emoji,name,label
 👩🏽‍🍳,woman cook: medium skin tone,neutral
 👩🏾‍🍳,woman cook: medium-dark skin tone,neutral
 👩🏿‍🍳,woman cook: dark skin tone,neutral
-🧑‍🔧,mechanic,neutral
 🧑🏻‍🔧,mechanic: light skin tone,neutral
 🧑🏼‍🔧,mechanic: medium-light skin tone,neutral
 🧑🏽‍🔧,mechanic: medium skin tone,neutral
@@ -1368,7 +1261,6 @@ emoji,name,label
 👩🏽‍🔬,woman scientist: medium skin tone,neutral
 👩🏾‍🔬,woman scientist: medium-dark skin tone,neutral
 👩🏿‍🔬,woman scientist: dark skin tone,neutral
-🧑‍💻,technologist,neutral
 🧑🏻‍💻,technologist: light skin tone,neutral
 🧑🏼‍💻,technologist: medium-light skin tone,neutral
 🧑🏽‍💻,technologist: medium skin tone,neutral
@@ -2779,7 +2671,6 @@ emoji,name,label
 🛀🏽,person taking bath: medium skin tone,neutral
 🛀🏾,person taking bath: medium-dark skin tone,neutral
 🛀🏿,person taking bath: dark skin tone,neutral
-🛌,person in bed,neutral
 🛌🏻,person in bed: light skin tone,neutral
 🛌🏼,person in bed: medium-light skin tone,neutral
 🛌🏽,person in bed: medium skin tone,neutral
@@ -2787,7 +2678,6 @@ emoji,name,label
 🛌🏿,person in bed: dark skin tone,neutral
 🧑‍🤝‍🧑,people holding hands,neutral
 🧑🏻‍🤝‍🧑🏻,people holding hands: light skin tone,neutral
-🧑🏻‍🤝‍🧑🏼,people holding hands: light skin tone, medium-light skin tone,neutral
 🧑🏻‍🤝‍🧑🏼,"people holding hands: light skin tone, medium-light skin tone",neutral
 🧑🏻‍🤝‍🧑🏽,"people holding hands: light skin tone, medium skin tone",neutral
 🧑🏻‍🤝‍🧑🏾,"people holding hands: light skin tone, medium-dark skin tone",neutral
