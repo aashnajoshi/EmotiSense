@@ -28,7 +28,7 @@ streamlit run app.py
 ```bash
 python model_train.py
 ```
-*Note:* Retraining the model requires the emoji_df.csv dataset (or edit the csv_name in line9 of `model_train.py` file), it may take some time depending on your machine's performance and size of new dataset.
+*Note:* Retraining the model requires the emoji_df.csv dataset (or edit the csv_name in line9 of `model_train.py`), it may take some time depending on your machine's performance and size of new dataset.
 
 ## Description about various files:
 - *app.py:* Contains the Streamlit-based version of the main code for a user-friendly web interface.
